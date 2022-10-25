@@ -28,6 +28,8 @@ void Con_Web3(int id, int temp){
   Serial.println("----------------Closing Connection----------------");
   http.end(); //--> Close connection
   Serial.println();
+  Serial.println();
   Serial.println("Please wait 1 seconds for the next connection.");
+  Serial.println();
   Serial.println();
 }
