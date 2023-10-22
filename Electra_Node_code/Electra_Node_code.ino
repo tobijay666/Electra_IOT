@@ -38,7 +38,7 @@ int IdSmoke = 4;
   
 //----------------------------------------SSID and Password of your WiFi router.
 const char* ssid = "Dialog 4G 139"; //--> Your wifi name or SSID.
-const char* password = "BADf4De3"; //--> Your wifi password.
+const char* password = "*****"; //--> Your wifi password.
 //----------------------------------------
 
 //----------------------------------------Web Server address / IPv4
